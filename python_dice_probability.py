@@ -10,8 +10,6 @@ class Dd():
     def roll(self):
         return randint(1, self.num_sides)
     
-
-
 dd_1 = Dd()
 dd_2 = Dd()
 results = []
